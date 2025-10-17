@@ -2,10 +2,10 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Rainbow Texture Pack x B2B",
-  "version": "1.6.12",
-  "description": "A browser extension to mod an online game. Some parts made by Heythereu",
-  "author": "SmoothDude, joudaALT, Mystic",
+  "name": "Custom hats",
+  "version": "1.0",
+  "description": "An extension to replace boring vanilla miniblox hats with some DEF better",
+  "author": "SmoothDude, Mystic",
   "background": {"service_worker": "background.js"},
   "icons": {
     "128": "icon.png"
