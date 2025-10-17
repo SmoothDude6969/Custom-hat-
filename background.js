@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "||miniblox.*models/hat/cap.gltf": "https://github.com/SmoothDude6969/Custom-hat-/blob/main/sword.glb",
+  "||miniblox.*models/hat/cap.gltf": "https://raw.githubusercontent.com/SmoothDude6969/Custom-hat-/main/sword.glb",
 };
 
 let rules = [];
@@ -32,6 +32,7 @@ chrome.declarativeNetRequest.updateDynamicRules(
     }
   }
 );
+
 
 
 
