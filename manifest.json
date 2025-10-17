@@ -8,7 +8,7 @@
   "author": "SmoothDude, Mystic",
   "background": {"service_worker": "background.js"},
   "icons": {
-    "128": "icon.png"
+    "128": "Hat.png"
   },
   "permissions": [
    "declarativeNetRequestWithHostAccess"
